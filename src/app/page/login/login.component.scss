@@ -1,0 +1,51 @@
+.navbar-container {
+  padding: 20px 24px 20px 24px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  // border: 1px solid red;
+}
+
+.navbarlogo {
+  font-weight: 900;
+  font-size: 26px;
+  color: #1A96F0;
+}
+
+.login-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form h2 {
+  font-weight: 800;
+  font-size: 32px;
+  margin-bottom: 32px;
+  color: #333333;
+}
+
+.input-container p {
+  color: #333333;
+}
+
+.input-container input {
+  border: 0;
+  background-color: #d7dae0;
+  color: #8a8e95;
+  width: 620px;
+  padding: 17px 28px;
+  font-size: 18px;
+  border-radius: 8px;
+}
+
+.login-form button {
+  margin-top: 32px;
+  width: 680px;
+  height: 64px;
+  border: 0;
+  background-color: #1A96F0;
+  border-radius: 10px;
+  font-size: 18px;
+  color: white;
+  font-weight: 900;
+}
+
